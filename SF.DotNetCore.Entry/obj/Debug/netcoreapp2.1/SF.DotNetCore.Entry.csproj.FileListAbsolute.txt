@@ -1,0 +1,14 @@
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.Entry\bin\Debug\netcoreapp2.1\SF.DotNetCore.Entry.deps.json
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.Entry\bin\Debug\netcoreapp2.1\SF.DotNetCore.Entry.runtimeconfig.json
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.Entry\bin\Debug\netcoreapp2.1\SF.DotNetCore.Entry.runtimeconfig.dev.json
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.Entry\bin\Debug\netcoreapp2.1\SF.DotNetCore.Entry.dll
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.Entry\bin\Debug\netcoreapp2.1\SF.DotNetCore.Entry.pdb
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.Entry\bin\Debug\netcoreapp2.1\SF.DotNetCore.CmqSDK.dll
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.Entry\bin\Debug\netcoreapp2.1\SF.DotNetCore.CmqSDK.pdb
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.Entry\obj\Debug\netcoreapp2.1\SF.DotNetCore.Entry.csprojAssemblyReference.cache
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.Entry\obj\Debug\netcoreapp2.1\SF.DotNetCore.Entry.csproj.CoreCompileInputs.cache
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.Entry\obj\Debug\netcoreapp2.1\SF.DotNetCore.Entry.AssemblyInfoInputs.cache
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.Entry\obj\Debug\netcoreapp2.1\SF.DotNetCore.Entry.AssemblyInfo.cs
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.Entry\obj\Debug\netcoreapp2.1\SF.DotNetCore.Entry.csproj.CopyComplete
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.Entry\obj\Debug\netcoreapp2.1\SF.DotNetCore.Entry.dll
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.Entry\obj\Debug\netcoreapp2.1\SF.DotNetCore.Entry.pdb

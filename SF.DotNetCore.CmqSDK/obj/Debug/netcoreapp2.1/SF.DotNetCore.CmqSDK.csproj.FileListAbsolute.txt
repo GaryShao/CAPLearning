@@ -1,0 +1,9 @@
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.CmqSDK\bin\Debug\netcoreapp2.1\SF.DotNetCore.CmqSDK.deps.json
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.CmqSDK\bin\Debug\netcoreapp2.1\SF.DotNetCore.CmqSDK.dll
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.CmqSDK\obj\Debug\netcoreapp2.1\SF.DotNetCore.CmqSDK.csprojAssemblyReference.cache
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.CmqSDK\obj\Debug\netcoreapp2.1\SF.DotNetCore.CmqSDK.csproj.CoreCompileInputs.cache
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.CmqSDK\obj\Debug\netcoreapp2.1\SF.DotNetCore.CmqSDK.AssemblyInfoInputs.cache
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.CmqSDK\obj\Debug\netcoreapp2.1\SF.DotNetCore.CmqSDK.AssemblyInfo.cs
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.CmqSDK\bin\Debug\netcoreapp2.1\SF.DotNetCore.CmqSDK.pdb
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.CmqSDK\obj\Debug\netcoreapp2.1\SF.DotNetCore.CmqSDK.dll
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.CmqSDK\obj\Debug\netcoreapp2.1\SF.DotNetCore.CmqSDK.pdb

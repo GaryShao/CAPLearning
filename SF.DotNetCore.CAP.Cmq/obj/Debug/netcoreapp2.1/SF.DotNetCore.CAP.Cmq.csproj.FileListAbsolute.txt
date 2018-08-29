@@ -1,0 +1,6 @@
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.CAP.Cmq\bin\Debug\netcoreapp2.1\SF.DotNetCore.CAP.Cmq.deps.json
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.CAP.Cmq\bin\Debug\netcoreapp2.1\SF.DotNetCore.CAP.Cmq.dll
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.CAP.Cmq\obj\Debug\netcoreapp2.1\SF.DotNetCore.CAP.Cmq.csproj.CoreCompileInputs.cache
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.CAP.Cmq\obj\Debug\netcoreapp2.1\SF.DotNetCore.CAP.Cmq.AssemblyInfoInputs.cache
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.CAP.Cmq\obj\Debug\netcoreapp2.1\SF.DotNetCore.CAP.Cmq.AssemblyInfo.cs
+E:\company-projecs\SF.DotNetCore\SF.DotNetCore.CAP.Cmq\obj\Debug\netcoreapp2.1\SF.DotNetCore.CAP.Cmq.csprojAssemblyReference.cache
